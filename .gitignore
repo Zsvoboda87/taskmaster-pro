@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+=======
+node_modules
+package-lock.json
+.vscode
+>>>>>>> develop
 .DS_Store
